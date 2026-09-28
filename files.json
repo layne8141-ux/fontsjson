@@ -13,13 +13,13 @@
         "ggsans-Normal": "https://github.com/layne8141-ux/fontsjson/raw/refs/heads/main/ggsans-Medium.ttf",
         "ggsans-NormalItalic": "https://github.com/layne8141-ux/fontsjson/raw/refs/heads/main/HvDTrial_Brevia-Regular-BF6493a40670f4b.otf",
         "ggsans-Semibold": "https://github.com/layne8141-ux/fontsjson/raw/refs/heads/main/HvDTrial_Brevia-Regular-BF6493a40670f4b.otf",
-        "ggsans-SemiboldItalic": "https://github.com/MarGar12/fontjson/raw/main/fonts/Comic%20Sans/Comic%20Sans%20MS%20Bold%20Italic.ttf?raw=1",
-        "NotoSans-Bold": "https://github.com/MarGar12/fontjson/raw/main/fonts/Comic%20Sans/Comic%20Sans%20MS%20Bold.ttf?raw=1",
+        "ggsans-SemiboldItalic": "https://github.com/layne8141-ux/fontsjson/raw/refs/heads/main/ggsans-MediumItalic.ttf",
+        "NotoSans-Bold": "https://github.com/layne8141-ux/fontsjson/raw/refs/heads/main/HvDTrial_Brevia-Regular-BF6493a40670f4b.otf",
         "NotoSans-ExtraBold": "https://github.com/layne8141-ux/fontsjson/raw/refs/heads/main/HvDTrial_Brevia-Regular-BF6493a40670f4b.otf",
         "NotoSans-Medium": "https://github.com/layne8141-ux/fontsjson/raw/refs/heads/main/ggsans-Medium.ttf",
         "NotoSans-Normal": "https://github.com/layne8141-ux/fontsjson/raw/refs/heads/main/ggsans-Medium.ttf",
         "NotoSans-NormalItalic": "https://github.com/layne8141-ux/fontsjson/raw/refs/heads/main/ggsans-MediumItalic.ttf",
-        "NotoSans-Semibold": "https://github.com/MarGar12/fontjson/raw/main/fonts/Comic%20Sans/Comic%20Sans%20MS%20Bold.ttf?raw=1",
+        "NotoSans-Semibold": "https://github.com/layne8141-ux/fontsjson/raw/refs/heads/main/HvDTrial_Brevia-Regular-BF6493a40670f4b.otf",
         "SourceCodePro-Semibold": "https://github.com/layne8141-ux/fontsjson/raw/refs/heads/main/HvDTrial_Brevia-Regular-BF6493a40670f4b.otf"
     }
 }
